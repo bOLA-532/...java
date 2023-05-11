@@ -8,6 +8,8 @@ public class Main {
         // Prompt user for input
         System.out.print("Enter the mass of the object in kg: ");
         double m = input.nextDouble();
+        
+        // This is just a comment, nothing serious :)
 
         System.out.print("Enter the height of the object in meters: ");
         double h = input.nextDouble();
